@@ -6,7 +6,7 @@ Therefore, it has a general score to summarise those measurements.
 
 This repository aims to document the introduce a topological data analysis (TDA) approach to improve the measurement score in the pilot study.
 In this repository, the speech data is obtained from a pilot project of a start-up in Warszawa, Poland.
-The speech data consists of 10 soundwaves (.wav file) of a vowel 'a' sound. Unfortunately, the data is not open-source.
+The speech data consists of 10 soundwaves (.wav file) of a vowel 'a' sound. Unfortunately, the .wav data is not open-source.
 
 In this repository, you will find the following:
 1) ```feature_extraction```: The first step. A code to convert the raw dataset into all TDA features. Resulting in a file *result_tda.tsv* which will be used in the next step.
