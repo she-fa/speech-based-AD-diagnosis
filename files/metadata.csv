@@ -1,0 +1,11 @@
+File,bit/sec,bit,sample,duration (s),file size (kb),sex,age,status,Score,AmpSD_Rating,AmpSimmer_Rating,AmpLead_Rating,FqSD_Rating,FqJitter_Rating,FqLead_Rating,PhSD_Rating,PhDriftr_Rating,OBD/Harm_Rating,ELowHarm_Rating,ESubHarm_Rating,HNR_Rating,HTilt_Rating,HarmtoNoiseRat,HarminicsTilt (%),OBD number
+P1.wav,22050,16,134736,6.11,264,Kobieta,48,Zdrowa,7.4,4.2,7,8.3,7.8,8.6,7.7,6,6.4,5.7,10,5.9,8.9,9.1,34.3,0.9,32
+P2.wav,22050,16,125022,5.67,173,Kobieta,48,Zdrowa,8.2,6.1,7.9,10,9.4,9.2,8.4,7.1,7.6,10,10,10,7.3,3.2,138.1,1.9,6
+P3.wav,22050,16,108284,4.91,212,Kobieta,62,Zdrowa,6.6,1.7,5.6,3.7,7.2,7.5,5.1,7.3,6,2.9,8.5,10,9.9,10,40.3,-0.3,123
+P4.wav,22050,16,133931,6.07,262,Mezcyzna,67,Zdrowy,6.4,0,5.3,9.2,0.5,7.4,4.7,5.5,6.9,10,9.6,4.9,8.9,10,34.3,0.2,8
+P5.wav,22050,16,201228,9.13,394,Mezcyzna,86,MCI,3.2,2.1,3.1,2.5,1.8,2.3,2,6.1,5.9,0,6,3.8,2.8,3.4,5.1,1.9,263
+P6.wav,22050,16,173853,7.88,340,Mezcyzna,82,Zaburzenia poznawcze na tle naczyniowym,3.6,0,2.5,1,6.1,4.7,4.1,3.9,5.1,0,9.1,3.8,4.5,1.8,12.6,3.4,166
+P7.wav,22050,16,87014,3.95,170,Kobieta,79,Zdrowa,6.2,3.9,5.8,8.5,1.6,5.6,5.5,5.4,7.5,6.9,5,10,8.2,6.8,28.6,-1.4,21
+P8.wav,22050,16,86000,3.9,169,Kobieta,13,Zdrowa,6.3,1.3,5.9,7,3.9,7.6,5.1,7.8,7.1,6.9,10,10,7.8,1.4,26,5.6,23
+P9.wav,22050,16,104416,4.74,204,Kobieta,59,Zdrowa,7.1,7.3,8.7,7.7,4.9,9.4,5.3,7.5,6.9,6.3,10,8.2,7.4,2.4,23.7,2.2,33
+P10.wav,22050,16,185652,8.42,363,Mezcyzna,71,Zdrowy,7.5,4.4,6.6,8.1,8.2,7.8,6.3,7.4,8.2,4.7,10,8,9.4,9,37.2,0.9,79
