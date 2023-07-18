@@ -4,6 +4,9 @@ The pilot study aims to use speech in predicting AD diagnosis by developing some
 These measurements are numerical scores connecting to a particular acoustic feature of the soundwave.
 Therefore, it has a general score to summarise those measurements.
 
+The repository also connects to a Master's thesis focusing on analysing the phonetic aspect in diagnosing AD. 
+The degree is obtained in Cognitive Science at the Nicolaus Copernicus University, Torun, Poland. 
+
 This repository aims to document the introduce a topological data analysis (TDA) approach to improve the measurement score in the pilot study.
 In this repository, the speech data is obtained from a pilot project of a start-up in Warszawa, Poland.
 The speech data consists of 10 soundwaves (.wav file) of a vowel 'a' sound. Unfortunately, the .wav data is not open-source.
